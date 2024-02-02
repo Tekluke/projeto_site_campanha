@@ -6,7 +6,7 @@ import {
   faCircleXmark,
   faSearch,
 } from "@fortawesome/free-solid-svg-icons";
-import Logo from "../assets/Logo.png";
+import Logo from "../images/Logo.png";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);

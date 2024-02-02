@@ -1,5 +1,5 @@
 import React from "react";
-import Capa from "../assets/Capa.jpg";
+import Capa from "../images/Capa.jpg";
 import BioHome from "../components/BioHome";
 import PostHome from "../components/PostHome";
 import GridImages from "../components/GridImages";

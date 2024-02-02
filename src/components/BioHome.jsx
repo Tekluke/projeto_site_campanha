@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Avatar from "../assets/Avatar.png";
+import Avatar from "../images/Avatar.png";
 
 const BioHome = () => {
   return (

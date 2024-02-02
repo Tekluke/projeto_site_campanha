@@ -12,8 +12,8 @@ import PostPage from "./pages/PostPage.jsx";
 import Biografia from "./pages/Biografia.jsx";
 import Footer from "./components/Footer.jsx";
 import Navbar from "./components/Navbar.jsx";
-import "./style.scss";
 import PostIndex from "./pages/PostIndex.jsx";
+import "./style.scss";
 
 const Layout = () => {
   return (

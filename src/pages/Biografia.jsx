@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Avatar from "../assets/avatar.bio.png";
+import Avatar from "../images/avatar.bio.png";
 
 const Biografia = () => {
   const [carregado, setCarregado] = useState(false);
